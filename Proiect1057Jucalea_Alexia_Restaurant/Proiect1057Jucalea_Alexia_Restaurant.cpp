@@ -741,10 +741,8 @@ private:
 	const int id;
 	int nrPreparate = 0;
 	Preparat* preparate = nullptr;
-	//Bauturi
 	int nomilk = -1; // -1 - lapte de vaca         +1 - fara lapte de vaca;
 	string meat_type = "pui";
-	//mi-ar trebui cantitatea din fiecare produs comandat si un int* pentru fiecare sauuuuu un int* pt toate de dimensiunea nrFeluriPrijcipale+mnrDersertuir+nrBauturi
 	static int ultimulIdUtilizat;
 
 public:
