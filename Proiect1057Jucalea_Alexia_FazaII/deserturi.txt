@@ -1,0 +1,4 @@
+3
+Clatite 20 5 30 faina 1 oua 2 esenta_rom 3 sare 4 lapte 6 
+Placinta 12 3 5 mere 3 praf_de_copt 1 faina 3
+OrezLapte 14 3 7 orez 1  lapte 6 zahar 1 

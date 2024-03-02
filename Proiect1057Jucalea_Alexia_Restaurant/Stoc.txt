@@ -1,0 +1,25 @@
+24
+oua, 50
+lapte, 20
+carne ,20
+ceapa, 10
+varza,  20
+cacao,  5
+zahar ,20
+orez, 10
+bere, 20
+faina, 30
+praf_de_copt, 5
+rosii, 7
+castraveti ,8
+ciuperci, 10
+muschi, 8
+masline, 100
+bulion, 10
+telina, 2
+morcov, 5
+cartof, 2
+esenta_rom, 7
+lapte_vegetal, 5
+sare, 100
+carne_pui, 5

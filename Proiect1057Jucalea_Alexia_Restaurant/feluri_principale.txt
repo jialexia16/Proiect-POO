@@ -1,0 +1,5 @@
+4
+Salata 20 4 3 varza 1 ceapa 2 rosii 3 carne 4
+Piure 12 2 4 cartof 3 lapte 1 
+Ciorba 25 6 1 morcov 2 ceapa 3 rosii 1 bulion 1 telina 1 carne_pui 2 
+Pizza 21 6 2 faina 1 ceapa 2 ciuperci 2 rosii 1 muschi 1 masline 10 
