@@ -25,7 +25,7 @@ private:
 public:
 	Stoc() {};
 
-	//constrctor de copiere
+	//constructor de copiere
 	Stoc(Stoc& s)
 	{
 		if (s.getProduseStoc() > 0) {
@@ -622,7 +622,7 @@ public:
 
 		//initializam Feluri Principale
 		ifstream f(file_name);
-		if (f) { // ferific daca fisierul poate fi deschis
+		if (f) { // verific daca fisierul poate fi deschis
 			int nr_feluri_principale;
 			f >> nr_feluri_principale;
 			if (nr_feluri_principale > 0) {
